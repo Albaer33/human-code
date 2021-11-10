@@ -1,0 +1,21 @@
+1)apro netflix
+
+FINCHE' non mi annoio dei titoli consigliati eseguo da 2 a 3.3
+2)guardo i primi titoli consigliati
+3)SE titolo mi piace
+    3.1)guardo il trailer
+    3.2)SE trailer mi piace
+        3.2.1)guardo il film
+    3.3)ALTRIMENTI torna al punto 2
+
+FINCHE' non mi annoio dei titoli del mio genere consigliati eseguo da 4 a 6.3
+4)cerco la lista del mio genere preferito
+5)sfoglio i titoli
+6)SE titolo mi piace
+    6.1)guardo il trailer
+    6.2)SE trailer mi piace
+        3.2.1)guardo il film
+    6.3)ALTRIMENTI torna al punto 4
+
+7)SE mi annoio dei titoli consigliati E mi annoio dei titoli del mio genere
+    7.1) spengo il PC
