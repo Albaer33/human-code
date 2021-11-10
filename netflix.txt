@@ -17,5 +17,5 @@ FINCHE' non mi annoio dei titoli del mio genere consigliati eseguo da 4 a 6.3
         3.2.1)guardo il film
     6.3)ALTRIMENTI torna al punto 4
 
-7)SE mi annoio dei titoli consigliati E mi annoio dei titoli del mio genere
+7)SE mi annoio dei titoli consigliati E mi annoio dei titoli del mio genere OPPURE ho visto il film
     7.1) spengo il PC
